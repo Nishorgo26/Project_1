@@ -49,4 +49,10 @@
 - Accuracy & loss plots for both datasets
 - Classification reports & confusion matrices
 
+
+## 5) Reference
+
+- For implementing the code ChatGPT was used.
+
+  
 ---
