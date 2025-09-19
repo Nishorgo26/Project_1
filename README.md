@@ -1,10 +1,3 @@
-
-# MobileNetV2 on Fashion-MNIST and CIFAR-10 — Colab Training & Evaluation
-
-This notebook trains **MobileNetV2** **from scratch** on two datasets: **Fashion-MNIST** and **CIFAR-10**, then evaluates and compares results.
-
----
-
 ## 1) Quick Start (Colab)
 
 1. Open Google Colab → Runtime → Change runtime type → GPU (recommended) I used A100.
